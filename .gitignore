@@ -1,0 +1,11 @@
+.idea/
+node_modules/
+report/
+allure-report/
+.DS_Store
+*.iml
+.env*
+local.log
+package-lock.json
+yarn.lock
+.dockerignore
